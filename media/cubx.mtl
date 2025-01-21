@@ -1,0 +1,208 @@
+# Rhino
+newmtl IsoB_tetti
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_tetti.jpg
+newmtl Gesso
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 0.7490 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl IsoA_Cordolisuperiori
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_Cordolisuperiori.jpg
+newmtl IsoA_colonne
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_colonne.jpg
+newmtl IsoA_coriliinterni
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_coriliinterni.jpg
+newmtl IsoA_cortilipietra
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_cortilipietra.jpg
+newmtl IsoA_marciapiede
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_marciapiede.jpg
+newmtl IsoA_muretto
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_muretto.jpg
+newmtl IsoA_muriesterni
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_muriesterni.jpg
+newmtl IsoA_muriinterni
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_muriinterni.jpg
+newmtl IsoA_pavinterni
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_pavinterni.jpg
+newmtl IsoA_sottotetto1
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_sottotetto1.jpg
+newmtl IsoA_sottotetto2
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_sottotetto2.jpg
+newmtl IsoA_tetti
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_tetti.jpg
+newmtl IsoA_verde
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoA_verde.jpg
+newmtl IsoB_Cordolisuperiori
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_Cordolisuperiori.jpg
+newmtl IsoB_colonne
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_colonne.jpg
+newmtl IsoB_cordoli_esterni
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_cordoli_esterni.jpg
+newmtl IsoB_cordoliinterni
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_cordoliinterni.jpg
+newmtl IsoB_marciapiede
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_marciapiede.jpg
+newmtl IsoB_muri
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_muri.jpg
+newmtl IsoB_muri_interni
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_muri_interni.jpg
+newmtl IsoB_pavcase
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_pavcase.jpg
+newmtl IsoB_pavcortili
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_pavcortili.jpg
+newmtl IsoB_verde
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd IsoB_verde.jpg
+newmtl Vetri_scuri
+Ka 1.0000 1.0000 1.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.2000 0.2000 0.2000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 114.7500
+map_Kd Vetri_scuri.jpg
